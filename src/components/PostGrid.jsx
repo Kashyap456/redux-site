@@ -5,7 +5,7 @@ import Post from './Post'
 
 const PostGrid = ({ posts }) => (
   <>
-    <h1>POSTGRID</h1>
+    <h1 className="text-2xl">POSTGRID</h1>
     <div className="flex flex-row flex-wrap">
       {posts.map(el => <Post title={el.title} url={el.url} desc={el.desc} id={el.id} key={el.id} />)}
     </div>
