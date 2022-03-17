@@ -1,7 +1,6 @@
 {
   "name": "redux-site",
   "version": "1.0.0",
-  "main": "index.html",
   "repository": "https://github.com/Kashyap456/redux-site.git",
   "author": "Kashyap Chaturvedula <kashyapc@seas.upenn.edu>",
   "license": "MIT",
